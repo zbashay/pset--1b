@@ -8,10 +8,12 @@
  <h2>Contact</h2>
  <hr />
  <div>
-   <p>Feel free to contact me with any questions!</p> 
+   <p>Feel free to contact me with any questions!</p>
  <h2>Business Email:</h2>
  <p>zbashay@ucvts.org
+ <img src="images/image6.jpeg" height="400" alt="Contact">
  <footer> <a href="https://www.ucvts.tec.nj.us/">UCVTS Website</a> </footer>
  <footer> <a href="https://www.ucvts.tec.nj.us/Page/471">AIT Website</a> </footer>
+ <footer> Copyright 2019-2020 </footer>
  </body>
 </html>
