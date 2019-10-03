@@ -18,4 +18,28 @@ img {
 a {
     color: green;
 }
+            nav{
+              float: center;
+            }
+            nav ul{
+              margin: 0;
+              padding: 0;
+              list-style: none;
+            }
+            nav li{
+              display: inline-block;
+              margin-left: 20px;
+              padding-top: 10px;
+              padding-bottom: 10px;
+            }
+            nav a{
+              color: #0B769B;
+              text-decoration: none;
+              text-transform: uppercase;
+            }
+            nav a:hover{
+              color: #FFFFFF;
+            }
+            header{
+              background: #B882EB;
 
