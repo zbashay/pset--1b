@@ -1,7 +1,8 @@
 * {
     margin: 15;
     padding: 15;
-    background-color:  #ff4d4d;
+    background: rgb(34,193,195);
+    background: linear-gradient(151deg, rgba(34,193,195,1) 0%, rgba(160,52,255,1) 100%);
     color: white;
 }
 p {
