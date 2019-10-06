@@ -1,9 +1,11 @@
 * {
     margin: 15;
     padding: 15;
-    background: rgb(34,193,195);
-    background: linear-gradient(151deg, rgba(34,193,195,1) 0%, rgba(160,52,255,1) 100%);
     color: white;
+}
+body{
+  background: rgb(34,193,195);
+  background: linear-gradient(151deg, rgba(34,193,195,1) 0%, rgba(160,52,255,1) 100%);
 }
 p {
   text-align: center;
@@ -14,6 +16,9 @@ img {
   display: block;
   border: 4px solid white;
   margin: 0 auto;
+}
+.section-header {
+    text-decoration: underline;
 }
 a {
     color: green;
@@ -42,4 +47,3 @@ a {
             }
             header{
               background: #B882EB;
-
