@@ -17,15 +17,25 @@ img {
   border: 4px solid white;
   margin: 0 auto;
 }
+table{
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+td{
+  border: 1px solid white;
+  border-collapse: collapse;
+}
 .section-header {
   text-decoration: underline;
   font-weight: 600;
   font-style: italic;
+  text-shadow: 2px 2px #B882EB;
 }
 .headers{
   font-style: italic;
   text-align: center;
   font-weight: bolder;
+  text-shadow: 2px 2px #B882EB;
 }
 .lists{
 font-style: oblique;
@@ -45,6 +55,9 @@ font-weight: bold;
   font-weight: bolder;
   text-decoration: underline;
   padding-bottom: 50px;
+}
+a[href="https://www.runtastic.com/blog/en/tips-on-how-to-increase-running-stamina/"] {
+    color: white;
 }
 a {
     color: #006666;
