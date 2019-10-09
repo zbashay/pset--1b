@@ -110,13 +110,12 @@ background: #B882EB
 .tooltip {
   position: relative;
   display: inline-block;
-  border-bottom: 1px dotted black;
+  border-bottom: 1px dotted white;
 }
-
 .tooltip .tooltiptext {
   visibility: hidden;
   width: 120px;
-  background-color: black;
+  background-color: #B882EB;
   color: #fff;
   text-align: center;
   border-radius: 6px;
@@ -126,12 +125,9 @@ background: #B882EB
   bottom: 100%;
   left: 50%;
   margin-left: -60px;
-
-  /* Fade in tooltip - takes 1 second to go from 0% to 100% opac: */
   opacity: 0;
   transition: opacity 1s;
 }
-
 .tooltip:hover .tooltiptext {
   visibility: visible;
   opacity: 1;
